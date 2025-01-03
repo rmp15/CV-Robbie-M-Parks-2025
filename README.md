@@ -4,7 +4,7 @@ Modular LaTeX project file for [my latest CV](https://robbiemparks.github.io/cv/
 
 Work in progress by Robbie M Parks.
 
-2020, 2021, 2022, 2023 ... and beyond
+2020, 2021, 2022, 2023, 2024, 2025 ... and beyond
 
 Please feel free to take and adapt if useful for your CV and career etc.
 
